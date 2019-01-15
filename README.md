@@ -1,8 +1,8 @@
 ## Groucho Marx
-25 one liners from the legend himself, groucho marx
+25 one-liners from the legend himself, groucho marx
 
 ## Description
-25 one liners from groucho marx. is this thing on? i think its on.
+25 one-liners from Groucho Marx of the Marx Brothers.
 
 ## Examples
  - "Groucho marx"
@@ -11,6 +11,6 @@
 
 
 ## Credits
-Gary Turner
+ImprezaRSC
 
 
